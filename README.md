@@ -12,7 +12,7 @@ When the page loads, text is automatically displayed like a type writer. The use
 
 ## Demo
 
-![](auto-text-effect.gif)
+![](auto-text-effect-2.gif)
 
 https://curtiskil.github.io/auto-text-effect/
 
