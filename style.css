@@ -40,5 +40,5 @@ input {
 }
 
 input:focus {
-  outline-color: black;
+  outline-color: rgb(165, 118, 42);
 }
