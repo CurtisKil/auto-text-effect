@@ -1,12 +1,18 @@
-@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@200;300;400;500&display=swap");
 
 * {
   box-sizing: border-box;
 }
 
 body {
-  background-color: darksalmon;
+  /* background-color: rgb(223, 241, 55); */
+  color: #fff;
+  background-image: url("https://images.unsplash.com/photo-1568660357733-823cbddb0f6a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=668&q=80");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50% 60%;
   font-family: "Roboto", sans-serif;
+  letter-spacing: 1.5px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -21,14 +27,14 @@ div {
   bottom: 20px;
   background: rgba(0, 0, 0, 0.1);
   padding: 10px 20px;
-  font-size: 18px;
+  font-size: 16px;
 }
 
 input {
   width: 50px;
   padding: 5px;
   font-size: 18px;
-  background: darksalmon;
+  background: #fff;
   border: none;
   text-align: center;
 }
